@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TRK Blogpost</title>
-    <link>http://example.org/</link>
-    <description>Recent content on TRK Blogpost</description>
+    <title>SW Blogpost</title>
+    <link>https://tarakhs.github.io/blog/</link>
+    <description>Recent content on SW Blogpost</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tarakhs.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GPT-4 and the Faraday Cage</title>
-      <link>http://example.org/posts/first/</link>
+      <title>The Importance of UNIX</title>
+      <link>https://tarakhs.github.io/blog/posts/the-importance-of-unix/</link>
+      <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://tarakhs.github.io/blog/posts/the-importance-of-unix/</guid>
+      <description>The beauty of Unix is rooted in its open source nature, and this is especially meaningful when compared to proprietary operating systems. The system bestows you with the freedom to experiment and customize the software to your own unique needs and preferences. Instead of spoonfeeding the user with the same process for every task, the open source community allows for greater creativity in problem solving and encourages people to think for themselves, a process that breaks the individual from the common path and makes them develop critical thinking.</description>
+    </item>
+    
+    <item>
+      <title>Kay and the Future of Software</title>
+      <link>https://tarakhs.github.io/blog/posts/kay-and-the-future-of-software/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/first/</guid>
-      <description>For the majority of people working with technology, the new GPT model by OpenAi, Generative PreTrained Transformer 4, is out of Beta and will slowly begin to roll out for use in the next few weeks. What does that mean exactly? Well, for the majority of people working with technology, almost nothing.</description>
+      <guid>https://tarakhs.github.io/blog/posts/kay-and-the-future-of-software/</guid>
+      <description>As a tech enthusiast, I&amp;rsquo;ve long been a fan of Alan Kay&amp;rsquo;s ideas. He was ahead of his time in many ways and I think his insight is still as relevant as ever. His concept of &amp;ldquo;user-centered design&amp;rdquo; is one that I believe will continue to be extremely important for the future of software design.
+The idea of designing tools and software that focus on the user and the user&amp;rsquo;s needs is a powerful concept.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://tarakhs.github.io/blog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
-      <description>Where I post from I wouldn&amp;rsquo;t describe my life as &amp;ldquo;adventurous&amp;rdquo;, sort to say, but the definition of that particular word has changed with time or context. People in general, I find, tend to cling to the letters that make up a particular word, instead of what it represents. Such words can be the words &amp;ldquo;usability&amp;rdquo;, &amp;ldquo;productivity&amp;rdquo;, &amp;ldquo;interests&amp;rdquo;, and, for the sake of the example, &amp;ldquo;adventurous&amp;rdquo;. One of the many things that have had a large impact on my outlook recently has been exactly that.</description>
+      <guid>https://tarakhs.github.io/blog/about/</guid>
+      <description>Where I post from This blogspot aims to serve as a web-hosted medium for a lot of things</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://example.org/contact/</link>
+      <link>https://tarakhs.github.io/blog/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/contact/</guid>
-      <description>How to reach me: Mention me at the repository of your interest</description>
+      <guid>https://tarakhs.github.io/blog/contact/</guid>
+      <description>How to contact me: @ me at the repository of your interest.</description>
     </item>
     
   </channel>

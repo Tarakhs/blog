@@ -2,21 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/first/</loc>
+    <loc>https://tarakhs.github.io/blog/posts/</loc>
+    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tarakhs.github.io/blog/</loc>
+    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tarakhs.github.io/blog/posts/the-importance-of-unix/</loc>
+    <lastmod>2023-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tarakhs.github.io/blog/posts/kay-and-the-future-of-software/</loc>
     <lastmod>2023-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
+    <loc>https://tarakhs.github.io/blog/about/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
-    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
+    <loc>https://tarakhs.github.io/blog/categories/</loc>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://tarakhs.github.io/blog/contact/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/contact/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://tarakhs.github.io/blog/tags/</loc>
   </url>
 </urlset>
